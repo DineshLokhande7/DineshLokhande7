@@ -21,7 +21,6 @@ Aspiring DevOps Engineer with a passion for automation and cloud technologies. S
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DineshLokhande7\&theme=dark\&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshLokhande7\&layout=compact\&theme=dark\&hide_border=true)
 
 ## 📫 Let's Connect
