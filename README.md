@@ -26,7 +26,7 @@ Aspiring DevOps Engineer with a passion for automation and cloud technologies. S
 
 ## 📫 Let's Connect
 
-* [LinkedIn](www.linkedin.com/in/dinesh-lokhande-dev358)
+* [LinkedIn]www.linkedin.com/in/dinesh-lokhande-pe1121
 * [Email](dinulokhande1995@gmail.com)
 
 Thanks for stopping by! ✨
